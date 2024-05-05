@@ -1,0 +1,18 @@
+smak : Hello Smartconvo, How are you?
+Smartconvo : Welcome smak, I am doing well. How may I assist you?
+smak : Hello, how are you?
+Smartconvo : Hello, I am functioning optimally. How may I be of assistance to you today?
+smak : Open youtube.
+Smartconvo : Your feedback is valued. If there's anything I can do to enhance your experience, please let me know.
+smak : Generate a python program to reverse a number.
+Smartconvo : Certainly! Here's a Python program to reverse a number:
+```python
+def reverse_number(num):
+    reversed_num = int(str(num)[::-1])
+    return reversed_num
+input_number = 12345
+reversed_number = reverse_number(input_number)
+print("Original Number:", input_number)
+print("Reversed Number:", reversed_number)
+```
+Feel free to replace the `input_number` with any other integer you'd like to reverse.
